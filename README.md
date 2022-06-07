@@ -1,10 +1,9 @@
 <h1> About me </h1>
 
-#### - 💻: Computer science student 
+#### - 💻: Cyber security engineer, Reverse engineering professionality.
 #### - 🗣️: Fluent in Polish 🇵🇱 and English 🇮🇪
 #### - 📫: Discord: quarza#8935
-#### - 📚: Studying full stack development
-
+#### - 📚: Studying senior full stack development.
 ---
 
 Languages i have most expierence with: 
@@ -25,6 +24,7 @@ Languages i have most expierence with:
 ### My skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="20" height="20"/>
 
-  - Made fully interactive login systems with account managament panels by using Html + css, php, SQL & json.
-  - I have good expierence with using python and selenium for automation
-  - Made e-commerce websites with Wordpress
+  - good understanding of senior reverse engineering programs like IDA64, scylla, + profesional debugging software.
+  - strongly involved in senior C++/X86 development.
+  - real world practice in using API's/websockets.
+  - senior blockchain understanding.

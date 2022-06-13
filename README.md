@@ -24,7 +24,4 @@ Languages i have most expierence with:
 ### My skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="20" height="20"/>
 
-  - good understanding of senior reverse engineering programs like IDA64, scylla, + profesional debugging software.
-  - strongly involved in senior C++/X86 development.
-  - real world practice in using API's/websockets.
-  - senior blockchain understanding.
+  - none

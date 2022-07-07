@@ -1,6 +1,6 @@
 <h1> About me </h1>
 
-#### - 💻: Cyber security engineer, Reverse engineering professionality.
+#### - 💻: Neuroscience
 #### - 🗣️: Fluent in Polish 🇵🇱 and English 🇮🇪
 #### - 📫: Discord: quarza#8935
 #### - 📚: Studying senior full stack development.

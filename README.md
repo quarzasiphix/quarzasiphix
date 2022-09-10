@@ -24,5 +24,6 @@ Languages i have most expierence with:
 
 ### My skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"  title="Linux" alt="Linux" width="20" height="20"/>
 
   - none

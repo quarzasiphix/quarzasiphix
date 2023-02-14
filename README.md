@@ -5,7 +5,7 @@
 #### - 📫: Discord: quarza#4343
 ---
 
-Technology i have most expierence with: 
+What im most expierenced with:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="Cpp" width="50" height="50"/> 
@@ -17,14 +17,12 @@ Technology i have most expierence with:
 </div>
 
 Technology im currently learning: 
+
 <div>
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="node" alt="node" width="57" height="57"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"  title="node" alt="node" width="57" height="57"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" title="opengl" alt="opengl" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
-
-
 </div>
 
 ---

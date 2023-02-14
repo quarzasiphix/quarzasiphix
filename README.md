@@ -1,9 +1,8 @@
 <h1> About me </h1>
 
-#### - 💻: Neuroscience, game hacking
+#### - 💻: Full stack, Low level
 #### - 🗣️: Fluent in Polish 🇵🇱 and English 🇮🇪
-#### - 📫: Discord: quarza#8935
-#### - 📚: full stack.
+#### - 📫: Discord: quarza#4343
 ---
 
 Languages i have most expierence with: 

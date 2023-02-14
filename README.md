@@ -5,7 +5,7 @@
 #### - 📫: Discord: quarza#4343
 ---
 
-What im most expierenced with:
+#### What im most expierenced with:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="Cpp" width="50" height="50"/> 
@@ -16,7 +16,11 @@ What im most expierenced with:
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
 </div>
 
-Technology im currently learning: 
+<div>
+
+</div>
+
+#### Technology im currently learning: 
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="node" alt="node" width="57" height="57"/>

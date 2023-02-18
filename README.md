@@ -1,11 +1,11 @@
 <h1> About me </h1>
 
-#### - 💻: Full stack, Low level
+#### - 💻: Low level (asm, c++), Full stack (php, js, html css, nginx) 
 #### - 🗣️: Fluent in Polish 🇵🇱 and English 🇮🇪
 #### - 📫: Discord: quarza#4343
 ---
 
-#### What im most expierenced with:
+#### Languages I'm most expierenced with:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="Cpp" width="50" height="50"/> 
@@ -15,13 +15,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>
 </div>
+<div></div>
 
+### Technology I'm expierenced with:
 <div>
-
+<img src="https://www.svgrepo.com/show/373924/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>  
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-cloud.svg" title="gcp" alt="gcp" width="40" height="40"/>  
 </div>
+<div></div>
 
 #### Technology im currently learning: 
-
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="node" alt="node" width="57" height="57"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>

@@ -1,6 +1,6 @@
 <h1> About me </h1>
 
-#### - 💻: Low level (asm, c++), Full stack (php, js, html css, nginx) 
+#### - 💻: Low level (asm, c++), Full stack (react, php, sql, nginx) 
 #### - 🗣️: Fluent in Polish 🇵🇱 and English 🇮🇪
 #### - 📫: Discord: quarza#4343
 ---

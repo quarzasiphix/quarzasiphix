@@ -29,8 +29,9 @@
 
 #### Technology im currently learning: 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="node" alt="node" width="57" height="57"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="laravel" alt="laravel" width="57" height="57"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="react" alt="react" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"  title="node" alt="node" width="57" height="57"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" title="opengl" alt="opengl" width="40" height="40"/>
 </div>

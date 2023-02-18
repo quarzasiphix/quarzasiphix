@@ -21,6 +21,9 @@
 <div>
 <img src="https://www.svgrepo.com/show/373924/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>  
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/google-cloud.svg" title="gcp" alt="gcp" width="40" height="40"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"  title="Linux" alt="Linux" width="20" height="20"/>
+
 </div>
 <div></div>
 
@@ -36,7 +39,4 @@
 
 
 ### My experience
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"  title="Linux" alt="Linux" width="20" height="20"/>
-
   - none

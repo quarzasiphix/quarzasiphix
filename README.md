@@ -16,7 +16,7 @@
 </div>
 <div></div>
 
-#### Technology I'm expierenced with:
+#### Technology I'm most expierenced with:
 <div>
 <img src="https://www.svgrepo.com/show/373924/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>  
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/google-cloud.svg" title="gcp" alt="gcp" width="40" height="40"/>  

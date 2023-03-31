@@ -5,7 +5,9 @@
 #### - 📫: Discord: quarry#4343
 ---
 
-#### Languages I'm most expierenced with:
+#### Languages 
+---
+### Most expierenced with:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="Cpp" width="50" height="50"/> 
@@ -16,7 +18,10 @@
 </div>
 <div></div>
 
-#### Technology I'm most expierenced with:
+#### Technology 
+---
+### Most expierenced with:
+
 <div>
 <img src="https://www.svgrepo.com/show/373924/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>  
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/google-cloud.svg" title="gcp" alt="gcp" width="40" height="40"/>  
@@ -27,7 +32,7 @@
 </div>
 <div></div>
 
-#### Technology im currently learning: 
+### Currently learning: 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="laravel" alt="laravel" width="57" height="57"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="react" alt="react" width="40" height="40"/>

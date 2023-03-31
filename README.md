@@ -3,9 +3,7 @@
 #### - 💻: Low level (asm, c++, socket) Full stack (react, php, sql, nginx) 
 #### - 🗣️: Fluent in Polish 🇵🇱 and English 🇮🇪
 #### - 📫: Discord: quarry#4343
-
-<br> </br>
-
+<br></br>
 #### Languages 
 ---
 Most expierenced with:

@@ -43,6 +43,7 @@ Currently learning:
 </div>
 
 ---
+<br> </br>
 
 ### My professional experience
   - none

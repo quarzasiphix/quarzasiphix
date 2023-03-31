@@ -4,6 +4,8 @@
 #### - 🗣️: Fluent in Polish 🇵🇱 and English 🇮🇪
 #### - 📫: Discord: quarry#4343
 
+<br> </br>
+
 #### Languages 
 ---
 Most expierenced with:

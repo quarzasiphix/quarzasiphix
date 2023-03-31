@@ -22,7 +22,7 @@ Most expierenced with:
 
 ---
 
-Most expierenced with:
+Expierenced with:
 
 <div>
 <img src="https://www.svgrepo.com/show/373924/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>  

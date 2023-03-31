@@ -7,7 +7,7 @@
 
 #### Languages 
 ---
-### Most expierenced with:
+Most expierenced with:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="Cpp" width="50" height="50"/> 
@@ -20,7 +20,7 @@
 
 #### Technology 
 ---
-### Most expierenced with:
+Most expierenced with:
 
 <div>
 <img src="https://www.svgrepo.com/show/373924/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>  

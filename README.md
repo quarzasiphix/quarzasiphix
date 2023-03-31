@@ -6,6 +6,7 @@
 <br></br>
 <h2> Languages </h2> 
 ---
+
 Most expierenced with:
 
 <div>
@@ -16,11 +17,11 @@ Most expierenced with:
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>
 </div>
 <div></div>
+<br></br>
+<h2> Technology </h2>
 
-<br> </br>
-
-<h2> Technology </h2> 
 ---
+
 Most expierenced with:
 
 <div>

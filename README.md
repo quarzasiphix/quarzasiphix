@@ -4,7 +4,8 @@
 #### - 🗣️: Fluent in Polish 🇵🇱 and English 🇮🇪
 #### - 📫: Discord: quarry#4343
 <br></br>
-<h2> Languages </h2> 
+<h2> Languages </h2>
+
 ---
 
 Most expierenced with:
@@ -32,9 +33,10 @@ Most expierenced with:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>
 
 </div>
+
 <div></div>
 
-Currently learning: 
+Currently learning:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="laravel" alt="laravel" width="57" height="57"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="react" alt="react" width="40" height="40"/>
@@ -44,6 +46,7 @@ Currently learning:
 </div>
 
 ---
+
 <br> </br>
 
 ### My professional experience

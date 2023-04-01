@@ -5,8 +5,6 @@
 #### - 📫: Discord: quarry#4343
 <h2> Languages </h2>
 
----
-
 Most expierenced with:
 
 <div>
@@ -19,8 +17,6 @@ Most expierenced with:
 <div></div>
 <br></br>
 <h2> Technology </h2>
-
----
 
 Expierenced with:
 

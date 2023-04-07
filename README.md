@@ -46,7 +46,5 @@ Currently learning:
 
 ---
 
-<br> </br>
-
 ### My professional experience
   - none

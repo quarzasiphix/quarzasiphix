@@ -18,7 +18,6 @@ Most expierenced with:
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>
 </div>
 <div></div>
-<br></br>
 <h2> Technology </h2>
 
 Expierenced with:
